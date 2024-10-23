@@ -126,10 +126,10 @@ This will allow cross-origin requests from your React frontend to your Node.js b
 - **Others**: AST (Abstract Syntax Tree) for rule evaluation, JavaScript
 
 ## Screenshots
-![]()
-![]()
-![]()
-![]()
+![UI](https://github.com/AyushiGupta160604/AST-Rule-Engine/blob/main/basic%20UI.png)
+![Creating Rule](https://github.com/AyushiGupta160604/AST-Rule-Engine/blob/main/creating%20rule.png)
+![Rule in DB](https://github.com/AyushiGupta160604/AST-Rule-Engine/blob/main/ruleCreatedinDB.png)
+![Rule Evaluation](https://github.com/AyushiGupta160604/AST-Rule-Engine/blob/main/evaluation%20of%20rule.png)
 
 ## Acknowledgements
 
